@@ -16,3 +16,4 @@ def func2():
 func1()
 func2()
 print func1.__name__
+print "HELLLO"
